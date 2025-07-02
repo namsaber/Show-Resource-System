@@ -47,6 +47,14 @@
 			<artifactId>oshi-core</artifactId>
 			<version>6.4.10</version>
 		</dependency>
+
+		<!-- Swagger -->
+		<!-- https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui -->
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.8.8</version>
+		</dependency>
 	</dependencies>
 
 	<build>
